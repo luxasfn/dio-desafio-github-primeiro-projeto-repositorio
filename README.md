@@ -2,4 +2,5 @@
 Repositório criado para desafio de projeto Git/Github
 
 ## Links Úteis
-[Sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe básica markdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe básica GIT](https://git-scm.com/docs/git-commit/pt_BR)
